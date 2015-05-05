@@ -127,6 +127,10 @@
             <a rel="nofollow" href="http://qasource.com">QASource</a> -
             NEW QA EXTENSION model to help you build and support robust and maintainable Selenium automation.
         </li>
+        <li>
+            <a rel="nofollow" href="http://www.gallop.net">Gallop Solutions</a> -
+            Independent Software Testing Services company providing differentiated QA services using IP Led testing services.
+        </li>
     </ul>
 
     <h2>Commercial Training</h2>
